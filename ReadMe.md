@@ -1,6 +1,8 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **Zefnir_Nguyen**
+> 
+> Github: Zefnir
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
@@ -21,10 +23,10 @@ In this assignment, you will demonstrate your ability to
 
 This repo is a sample design for a personal portfolio website. Originally created for [Astro](https://astro.build), this version has been adapted to React/NextJS.
 
-<!-- 
+<!--
 - Protection of an API key in a `.env` folder
 - Set up environment variables for Production
-- API Endpoint for delivering JSON on a GET request (similar to `api/hello.js`) 
+- API Endpoint for delivering JSON on a GET request (similar to `api/hello.js`)
 - CI/CD Processes
 - Unit Testing
 - Modern React (no NextJS)
@@ -114,7 +116,7 @@ Update this `ReadMe.md` with the following information at the top:
 - Your full name as well as your GitHub username
 - A screenshot of your deployed website in its final form
 
-## **(1 Mark)** - Update Repository Details 
+## **(1 Mark)** - Update Repository Details
 
 Edit the Repository Details (click the "About" gear icon) so that it includes a short description of your project and a link to the Netlify URL of your deployed site.
 
