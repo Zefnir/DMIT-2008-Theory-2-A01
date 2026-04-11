@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Zefnir Nguyen - Front-end Developer",
+    "description": "I'm Zefnir, a passionate Front-end Developer. I enjoy building websites and web applications that are secure, scalable, and sustainable. My primary tools of choice include: JavaScript, Typescript, React, Next.js, and Node.js.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,85 +11,63 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
+    "personName": "Zefnir",
     "jobTitle": "Freelance Frontend Developer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Canada",
+    "countryCode": "CA",
+    "nationality": "Vietnamese",
+    "publisherName": "Zefnir",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/minh-thanh-nguyen-2337a2328/",
+      "https://github.com/Zefnir"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Zefnir Nguyen",
+    "summary": "a passionate Front-end Developer that enjoys building websites and web applications that are secure, scalable, and sustainable",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Zefnir"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/minh-thanh-nguyen-2337a2328/"
       }
     ],
-    "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
-    },
     "image": {
-      "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "src": "/me.jpg",
+      "alt": "Zefnir"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Zefnir, a front-end software developer from Canada.",
     "toolsIntro": "My primary tools of choice includes:",
-    "tools": [
-      "JavaScript",
-      "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
-    ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "tools": ["JavaScript", "React", "Next.js", "Typescript", "Nodejs"],
+    "passion": "Beyond coding, I'm passionate about design, gaming and reading. An unusual hobby of mine is walking barefoot under the sunlight, it feels like connecting with nature.",
+    "approach": "My goal is to build software that is reliable, scalable, and genuinely useful while growing into an engineer teams can depend on."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "zefnir1703@gmail.com",
+    "location": "Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/minh-thanh-nguyen-2337a2328/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/Zefnir"
       }
     ]
   },
@@ -101,7 +79,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently studying fulltime"
   },
   "sections": {
     "schoolAssignment": {
